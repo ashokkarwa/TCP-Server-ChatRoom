@@ -2,17 +2,8 @@
 """
 Created on Thu Jul 29 15:39:51 2021
 
-@author: Shiv
+@author: Ashok
 """
-
-#Assignment 1
-#GROUP NO. 5
-#BT19CSE079
-#BT19CSE080
-#BT19CSE087
-#BT19CSE088
-#BT19CSE133
-#BT19CSE136
 
 
 ##Implemented The chatroom using TCP connection using same client code can make another client connection
